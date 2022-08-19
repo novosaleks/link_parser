@@ -1,4 +1,4 @@
-package link_parser
+package parser
 
 import (
 	"github.com/stretchr/testify/assert"

@@ -1,4 +1,4 @@
-package link_parser
+package parser
 
 import (
 	"golang.org/x/net/html"
